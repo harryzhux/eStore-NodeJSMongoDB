@@ -1,5 +1,5 @@
 {
-    "name": "eStore",
+    "name": "eStore-NodeJSMongoDB",
     "version": "0.1.0",
     "description": "E-commerce store built with Node.js, Express.js, & MongoDB",
     "author": "Harry Zhu <harryzhux@gmail.com> (http://github.com/harryzhux)",
